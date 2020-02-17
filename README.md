@@ -1,2 +1,2 @@
 # passagens
-Limpeza de dados de passagens áreas do Centro de Estudos e Análises Econômicas(CEAE) da FUCAPE
+Limpeza de dados de passagens aereas do Centro de Estudos e Análises Econômicas(CEAE) da FUCAPE
